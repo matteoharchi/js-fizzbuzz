@@ -12,3 +12,9 @@ for (var i = 0; i <= 100; i++) {
         console.log(i);
     }
 }
+// Inserire prima la condizione più difficile, poi quella più
+// semplice per evitare che stampi e poi debba correggere.
+// Ragiona come il computer!
+// Vedere i quasi come la pagina del libro: se inserisco
+// un valore da stampare mi metterà quello, altrimenti
+// mi stamperà il suo numero.
